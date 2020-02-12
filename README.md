@@ -4,6 +4,6 @@ primo
 
 ## h2
 
-* corsivo*
+*corsivo*
 
 **grasetto** 
